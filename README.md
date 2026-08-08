@@ -276,11 +276,8 @@ Registros da Opção Verde
 
 * **n8n**
 * **JavaScript**
-* **n8n Forms**
-* **n8n Data Tables**
-* **Expressions do n8n**
 * **HTML**
-* **Mermaid**
+
 
 ---
 
